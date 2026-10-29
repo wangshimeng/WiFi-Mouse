@@ -13,4 +13,4 @@ The ultimate productivity tool that turns your mobile device into a powerful wir
 3. Auto-discover or manually connect via IP for instant, low-latency control.
 
 ### 📥 Download
-[Get it on Google Play](https://play.google.com/store/apps/details?id=com.necta.wifimouse)
+[Get it on Google Play](https://play.google.com/store/apps/details?id=com.necta.wifimousefree)
